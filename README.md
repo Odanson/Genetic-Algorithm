@@ -62,7 +62,7 @@ For more detailed information, check the inline comments, markdown cells, and do
 
 Check out the [published project on ResearchGate](https://www.researchgate.net/publication/377724771_Metaheuristic_Method_for_Solving_Systems_of_Equations) to learn more about the research and findings.
 
-6. **Customisation:**
-   - If you have specific equations or scenarios, feel free to customize the notebook to suit your needs.
+**Customisation:**
+   - If you have specific equations or scenarios, feel free to customise the notebook to suit your needs.
 
 For more detailed information, check the inline comments, markdown cells, and documentation within the notebook itself.
